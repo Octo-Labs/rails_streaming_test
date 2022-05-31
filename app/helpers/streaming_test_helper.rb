@@ -1,0 +1,2 @@
+module StreamingTestHelper
+end
